@@ -1,0 +1,163 @@
+[
+  {
+    "appName": "Khan Academy",
+    "desc": "Free online courses, lessons, and practice in math, science, and more.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/cmg.webp",
+    "url": "https://www.khanacademy.org",
+    "disabled": false
+  },
+  {
+    "appName": "Amazon",
+    "desc": "Shop millions of products online.",
+    "icon": "https://play-lh.googleusercontent.com/1Ns1T_qN0pEXMvZeZ5lQNAR8z4blP7ce2J2Nn5doXvt2T1g_W7VMORdWHaApkOooupI=w240-h480-rw",
+    "url": "https://amazon.com",
+    "disabled": false
+  },
+  {
+    "appName": "Bing",
+    "desc": "Search freely with Bing, by Microsoft.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/bing.webp",
+    "url": "https://bing.com",
+    "disabled": false
+  },
+  {
+    "appName": "CoolMathapps",
+    "desc": "Fun logic and math games at Coolmath Games!",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/cmg.webp",
+    "url": "https://coolmathgames.com",
+    "disabled": false
+  },
+  {
+    "appName": "Crazyapps",
+    "desc": "Play free browser games instantly, no install.",
+    "icon": "https://play-lh.googleusercontent.com/91TVBW8CFsOsbh7r3Y-kACNVYely0I7C-UcYP3-Jw-_MHCtfa_18i_4L7ozvGMoI9bk",
+    "url": "https://crazygames.com",
+    "disabled": false
+  },
+  {
+    "appName": "Discord",
+    "desc": "Chat, voice, and communities all in one place.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/dcsi.webp",
+    "url": "https://discord.com/app",
+    "disabled": false
+  },
+  {
+    "appName": "Google Drive",
+    "desc": "Cloud storage, documents, sheets, and presentations.",
+    "icon": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png",
+    "url": "https://drive.google.com",
+    "disabled": false
+  },
+  {
+    "appName": "GeForce NOW",
+    "desc": "Play high-end PC games via GeForce NOW cloud.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/geforcenow.webp",
+    "url": "https://play.geforcenow.com",
+    "disabled": false
+  },
+  {
+    "appName": "GitHub",
+    "desc": "Host, review, and collaborate on code.",
+    "icon": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+    "url": "https://github.com",
+    "disabled": false
+  },
+  {
+    "appName": "Gmail",
+    "desc": "Google's fast, secure email service.",
+    "icon": "https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png",
+    "url": "https://mail.google.com",
+    "disabled": false
+  },
+  {
+    "appName": "Google",
+    "desc": "Google.com helps you find anything online.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/goog.webp",
+    "url": "https://google.com",
+    "disabled": false
+  },
+  {
+    "appName": "Instagram",
+    "desc": "Share photos, reels, and stories.",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=instagram.com",
+    "url": "https://instagram.com",
+    "disabled": false
+  },
+  {
+    "appName": "Desmos Calculator",
+    "desc": "Advanced graphing calculator for math and science.",
+    "icon": "https://www.desmos.com/favicon.ico",
+    "url": "https://www.desmos.com/calculator",
+    "disabled": false
+  },
+  {
+    "appName": "Neal.fun",
+    "desc": "Games, visualizations, interactives and other weird stuff.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/nf.webp",
+    "url": "https://neal.fun",
+    "disabled": false
+  },
+  {
+    "appName": "Netflix",
+    "desc": "Watch TV shows, movies, and originals.",
+    "icon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+    "url": "https://netflix.com",
+    "disabled": false
+  },
+  {
+    "appName": "Outlook",
+    "desc": "Email and calendar from Microsoft.",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=outlook.live.com",
+    "url": "https://outlook.live.com/mail/",
+    "disabled": false
+  },
+  {
+    "appName": "Pinterest",
+    "desc": "Discover and save ideas with Pinterest.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/pin.webp",
+    "url": "https://pinterest.com",
+    "disabled": false
+  },
+  {
+    "appName": "Reddit",
+    "desc": "Community discussion, news, memes, and more.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/reddit.webp",
+    "url": "https://reddit.com",
+    "disabled": false
+  },
+  {
+    "appName": "Symbolab",
+    "desc": "Step-by-step math solver powered by Symbolab.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/symb.webp",
+    "url": "https://symbolab.com",
+    "disabled": false
+  },
+  {
+    "appName": "Twitch",
+    "desc": "Watch and stream games live on Twitch.tv.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/twitch.webp",
+    "url": "https://twitch.tv",
+    "disabled": false
+  },
+  {
+    "appName": "Wikipedia",
+    "desc": "The free encyclopedia that anyone can edit.",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=wikipedia.org",
+    "url": "https://wikipedia.org",
+    "disabled": false
+  },
+  {
+    "appName": "X (Twitter)",
+    "desc": "Real-time news and social conversations.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/twitter-x.webp",
+    "url": "https://x.com/i/flow/login",
+    "disabled": false
+  },
+  {
+    "appName": "YouTube",
+    "desc": "Watch, create, and share videos worldwide.",
+    "icon": "https://cdn.jsdelivr.net/gh/Skoolgq/Polaris-Assets/main/img/youtube.webp",
+    "url": "https://youtube.com",
+    "disabled": false
+  }
+]

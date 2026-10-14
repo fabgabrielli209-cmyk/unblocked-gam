@@ -1,0 +1,6 @@
+{
+  "name": "gam-3 Games & Arcade",
+  "description": "Student learning portal, educational utilities, and interactive retro arcade canvas games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

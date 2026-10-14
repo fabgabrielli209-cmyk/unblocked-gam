@@ -1,0 +1,194 @@
+[
+  {
+    "option": "Google",
+    "value": {
+      "engineName": "Google",
+      "engine": "https://www.google.com/search?q=",
+      "engineIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/120px-Google_Favicon_2025.svg.png"
+    }
+  },
+  {
+    "option": "DuckDuckGo",
+    "value": {
+      "engineName": "DuckDuckGo",
+      "engine": "https://duckduckgo.com/?q=",
+      "engineIcon": "https://duckduckgo.com/favicon.ico"
+    }
+  },
+  {
+    "option": "Bing",
+    "value": {
+      "engineName": "Bing",
+      "engine": "https://www.bing.com/search?q=",
+      "engineIcon": "https://www.bing.com/favicon.ico"
+    }
+  },
+  {
+    "option": "Brave",
+    "value": {
+      "engineName": "Brave",
+      "engine": "https://search.brave.com/search?q=",
+      "engineIcon": "https://brave.com/static-assets/images/brave-logo-sans-text.svg"
+    }
+  },
+  {
+    "option": "Yahoo",
+    "value": {
+      "engineName": "Yahoo",
+      "engine": "https://search.yahoo.com/search?p=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Startpage",
+    "value": {
+      "engineName": "Startpage",
+      "engine": "https://www.startpage.com/sp/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Ecosia",
+    "value": {
+      "engineName": "Ecosia",
+      "engine": "https://www.ecosia.org/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Ask",
+    "value": {
+      "engineName": "Ask",
+      "engine": "https://www.ask.com/web?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Baidu",
+    "value": {
+      "engineName": "Baidu",
+      "engine": "https://www.baidu.com/s?wd=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Dogpile",
+    "value": {
+      "engineName": "Dogpile",
+      "engine": "https://www.dogpile.com/serp?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Kagi",
+    "value": {
+      "engineName": "Kagi",
+      "engine": "https://kagi.com/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Lycos",
+    "value": {
+      "engineName": "Lycos",
+      "engine": "https://search.lycos.com/web/?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Mojeek",
+    "value": {
+      "engineName": "Mojeek",
+      "engine": "https://www.mojeek.com/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Qwant",
+    "value": {
+      "engineName": "Qwant",
+      "engine": "https://www.qwant.com/?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Swisscows",
+    "value": {
+      "engineName": "Swisscows",
+      "engine": "https://swisscows.com/web?query=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Yandex",
+    "value": {
+      "engineName": "Yandex",
+      "engine": "https://yandex.com/search/?text=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "You.com",
+    "value": {
+      "engineName": "You.com",
+      "engine": "https://you.com/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "SearXNG (metasearch)",
+    "value": {
+      "engineName": "SearXNG",
+      "engine": "https://searx.be/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Presearch",
+    "value": {
+      "engineName": "Presearch",
+      "engine": "https://presearch.com/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Petal",
+    "value": {
+      "engineName": "Petal",
+      "engine": "https://petalsearch.com/search?query=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Sogou",
+    "value": {
+      "engineName": "Sogou",
+      "engine": "https://www.sogou.com/web?query=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "Gigablast",
+    "value": {
+      "engineName": "Gigablast",
+      "engine": "https://www.gigablast.com/search?q=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "YaCy (p2p)",
+    "value": {
+      "engineName": "YaCy",
+      "engine": "https://yacy.searchlab.eu/yacysearch.json?query=",
+      "engineIcon": ""
+    }
+  },
+  {
+    "option": "WebCrawler",
+    "value": {
+      "engineName": "WebCrawler",
+      "engine": "https://www.webcrawler.com/serp?q=",
+      "engineIcon": ""
+    }
+  }
+]
